@@ -110,7 +110,13 @@ O Unified Modeling Language (UML) é uma linguagem de modelagem que tem como obj
 
  **Diagrama de classe de um sistema de gestão escolar**
 
-
 ![Imagem2](https://github.com/Rcffeitosa/PT---SENAC-2024/assets/132168781/c62fa9ea-1bf8-4aa2-b51e-164a776380e5)
+
+
+## Desenvolver um protótipo funcional usando ferramentas Figma.
+
+
+![PI](https://github.com/Rcffeitosa/PI_SENAC-/assets/132168781/b71281e4-bbbd-4328-9a2a-3d5714fe55fb)
+
 
 

@@ -42,7 +42,7 @@ O Unified Modeling Language (UML) é uma linguagem de modelagem que tem como obj
 - **Cenário Alternativo 2:** Cadastro já existente.
 - **Pós-Condição:** O sistema exibe uma mensagem “Dados inseridos com sucesso”.
 
-- # Caso de Uso: Registrar Nota
+- ## Caso de Uso: Registrar Nota
 - **Atores:** Professor
 - **Pré-Condição:** Estar cadastrado no sistema da universidade
 ## Cenário Principal:
@@ -67,7 +67,7 @@ O Unified Modeling Language (UML) é uma linguagem de modelagem que tem como obj
   2. O Professor deverá entrar em contato com o Fornecedor.
 - **Pós-Condição:** As notas do aluno selecionado são inseridas e devidamente registradas no sistema.
 
-# Caso de Uso: Visualizar boletim
+## Caso de Uso: Visualizar boletim
 - **Atores:** Aluno
 - **Pré-Condição:** Estar cadastrado no sistema da universidade
 ## Cenário Principal:
@@ -84,7 +84,7 @@ O Unified Modeling Language (UML) é uma linguagem de modelagem que tem como obj
   2. O Aluno deverá aguardar até que seja realizada o lançamento das notas em seu boletim.
 - **Pós-Condição:** O Aluno tem acesso ao seu boletim dentro do sistema da universidade.
 
-# Caso de Uso: Realizar avaliação
+## Caso de Uso: Realizar avaliação
 - **Atores:** Aluno
 - **Pré-Condição:** Estar cadastrado no sistema da universidade
 ## Cenário Principal:

@@ -14,7 +14,7 @@ O Unified Modeling Language (UML) é uma linguagem de modelagem que tem como obj
 
 ![Imagem1](https://github.com/Rcffeitosa/PT---SENAC-2024/assets/132168781/456fc270-848e-4a23-98ae-508647c50010)
 
-### Caso de Uso: Acessar sistema
+## Caso de Uso: Acessar sistema
 
 - **Atores:** Professor, Aluno e Fornecedor
 - **Pré-Condição:** Estar cadastrado no sistema da universidade
@@ -28,7 +28,7 @@ O Unified Modeling Language (UML) é uma linguagem de modelagem que tem como obj
 - **Cenário Alternativo 2:** Ator sem cadastro.
 - **Pós-Condição:** O ator acessa o seu perfil dentro do sistema da universidade.
 
-### Caso de Uso: Criar cadastro de aluno
+## Caso de Uso: Criar cadastro de aluno
 
 - **Atores:** Fornecedor
 - **Pré-Condição:** O Fornecedor deve estar identificado e autenticado
@@ -113,7 +113,7 @@ O Unified Modeling Language (UML) é uma linguagem de modelagem que tem como obj
 ![Imagem2](https://github.com/Rcffeitosa/PT---SENAC-2024/assets/132168781/c62fa9ea-1bf8-4aa2-b51e-164a776380e5)
 
 
-## Desenvolvendo um protótipo usando ferramentas Figma.
+## Desenvolvendo um protótipo, usando ferramentas Figma.
 
 <https://www.figma.com/file/TLXGpdSqQkhV9YYFzzLsW8/PI?type=design&node-id=0-1&mode=design&t=uNidKebjWTLqv90r-0)>
 
